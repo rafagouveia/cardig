@@ -6,8 +6,12 @@ o projeto consiste em um cardapio digital, onde é possivel adicionar itens, cad
 O itens podem ser criados, obtidos, atualizados e  removidos (CRUD)
 
 
-Esse projeto usa:
+# Esse projeto usa:
+
 Spring Boot: para criar o servidor RestAPI;
+
 Maven: para o gerenciador de pacotes;
+
 PostgreSQL: para armazenar os dados;
+
 FlywayDb: para submeter as migrations;
