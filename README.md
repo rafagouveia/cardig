@@ -7,5 +7,7 @@ O itens podem ser criados, obtidos, atualizados e  removidos (CRUD)
 
 
 Esse projeto usa:
-Spring Boot: para criar o servidor RestAPI
-FlywayDb: para submeter as migrations
+Spring Boot: para criar o servidor RestAPI;
+Maven: para o gerenciador de pacotes;
+PostgreSQL: para armazenar os dados;
+FlywayDb: para submeter as migrations;
